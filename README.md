@@ -1,6 +1,6 @@
-# blog-kit
+# Blog Kit
 
-Simple blog-kit example.
+This is a simple blog-kit example that demonstrates basic blog functionalities and is easy to customize and extend.
 
 ## Features
 - Examples of basic blog functionalities
@@ -23,8 +23,9 @@ import BlogKit from 'blog-kit';
 ## Acknowledgements
 - Thanks to all contributors who have helped improve this project
 - Inspired by similar open source projects
-- Built with love and coffee ☕
+- Built with love and coffee 
 
 ## Future Plans
 - Add more features and examples.
 - Improve documentation further.
+- Create a demo website to showcase the blog functionalities.
